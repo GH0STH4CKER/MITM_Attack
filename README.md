@@ -8,7 +8,7 @@ This Python script demonstrates a basic Man-in-the-Middle (MITM) attack using AR
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.x (I am using 3.10.0)
 - Scapy library (install using `pip install scapy`)
 
 ## Usage
